@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An approved antidote or cordiall medicine, that by Gods favour cureth the pestilentiall feaver, or plague, with other contagious agues or feavers, beginning either hot or cold, and that at once taking, or at the most at twice, and hath no tast nor smel: and the quantity at one time to be taken is but 8 graines, and the vertue therof, will not decay in 40 yeares, and it is to be used as followeth.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17201</idno><idno type="EEBO-CITATION">99888722</idno>
+  <idno type="VID">203957</idno>
+  <idno type="EEBO-PROQUEST">2264186969</idno>
+  
+            <idno type="STC">Wing A3590A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 778.k.15.[25]</idno>
+            <idno type="STC">ESTC R231697</idno>
+            <idno type="PROQUEST">ocm99888722</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888722e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17201)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 203958)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E7:2[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An approved antidote or cordiall medicine, that by Gods favour cureth the pestilentiall feaver, or plague, with other contagious agues or feavers, beginning either hot or cold, and that at once taking, or at the most at twice, and hath no tast nor smel: and the quantity at one time to be taken is but 8 graines, and the vertue therof, will not decay in 40 yeares, and it is to be used as followeth.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Ornamental border.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-11 </date>
+            <label>PFS</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>pfs </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>pfs</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:203957:1"/>
+            <head>An approved <hi>Antidote</hi> or Cordiall <hi>Medicine,</hi> that by Gods favour cureth the <hi>Pestilentiall Feaver,</hi> or <hi>Plague,</hi> with other contagious <hi>Agues</hi> or <hi>Feavers,</hi> beginning either hot or cold, and that once ta<g ref="char:EOLhyphen"/>king, or at the most at twice, and hath no tast nor smel: and the quantity at one time to be taken is but 8 Graines, And the vertue therof, will not decay in 40 yeares, and it is to be used as followeth.</head>
+            <div type="part">
+               <head>The manner of taking this <hi>Antidote.</hi>
+               </head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">I</seg>Mprimis,</hi> Whether the <hi>Ague</hi> or <hi>Feaver</hi> beginne hot or cold, let Him or Her that taketh it, take it when they are in bed; it being halfe an houre or more before the expected fit. But if the <hi>Ague</hi> or <hi>Feaver</hi> be continuall; give it any time, and let him be inclined to Sweate.</p>
+               <p>
+                  <hi>Item,</hi> It is best to be mixed with a little Mithridate Triacle or some Conserve, or in the pap of an Apple, for that it is a Pow<g ref="char:EOLhyphen"/>der small in quantity, and cannot well be received alone, other<g ref="char:EOLhyphen"/>wise it needs no helper, and being taken in, shortly after let the Patient take a reasonable full draught of an ordinary Posset well warme and lying still on the one side, being warme covered Head and all, leaving sufficient place for breathing, sweat gently, not forceably, with some abate<g ref="char:EOLhyphen"/>ment of his covering (after he beginneth to Sweat) and the roome kept warme, and if hee can so continue it for 3 or 4 houres (it were best so) or as long as hee can well endure, and ever if he thirst give him Possit drinke, and when he hath performed due sweating, let him bee dried, shifted, and cloathes put on, and let him take some light refreshing of Broth, or the like, and if he before or after his Sweating bee much bound in his Belly, he may take an ordinary Suppositary onely to move one stoole and no more.</p>
+               <p>For Purging is dangerous in the cure of the Plague: and Sweat provoking Medicines are more safe, and the Disease it selfe explaines no lesse.
+<note place="margin">Secund Hip<g ref="char:EOLhyphen"/>pocrat. lib. 21. Aphor. 1. Quò na<g ref="char:EOLhyphen"/>tura vergit ad loca con<g ref="char:EOLhyphen"/>ferentia, eò ducere opor<g ref="char:EOLhyphen"/>tet.</note> For in the Plague Nature for<g ref="char:EOLhyphen"/>ceth out her contagious enemie in Botches, Blaines, &amp;c. by the Pores of the Ski<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne; so that by the true Rule of Art, the <hi>Artist</hi> being Natures Minister, is to assist and helpe her in her weakenesse, for the expelling of her enemie, by her preordained way, namely, by Sweating, and not by Purging.</p>
+            </div>
+            <div type="part">
+               <p>All such as take this Antidote before the Disease have overmuch weakened them, they may safely goe about their affaires, the Day following without feare or danger, being carefully temperate: and if they had any appearance of Botches, Blaines or Carbuncles, they will decline and goe away of themselves, without further helpe.</p>
+               <p>But neverthelesse hee may take a second like Sweat safely. Also if the Patient have any run<g ref="char:EOLhyphen"/>ning Sores, and be much weakened, yet by taking this Antidote he shall so sweat out the ve<g ref="char:EOLhyphen"/>nome and infectious Poison, as that his Sores will not onely easily be healed, but the Patient will quickly recover perfect health.</p>
+               <p>A Child about 8 yeares may take 5 Graines, one about 16 yeeres may well take 6. and one of 20 yeeres or upwards 8 Graines: and a Woman the like, although with child, if shee have the Plague; and so all sorts of Persons as aforesaid may take the like quantity in conta<g ref="char:EOLhyphen"/>gious Feavers or Agues, hot or cold, although the Agues or Feavers have been of coninu<g ref="char:EOLhyphen"/>ance, for if the first Sweat helpe not, the second (God willing) will.</p>
+               <p>This Antidote provoketh no vomit, stooles, nor any other Accidents, but by a hidden spe<g ref="char:EOLhyphen"/>ciall faculty (no doubt from above) helpeth Nature; utterly to vanquish her dreadfull ene<g ref="char:EOLhyphen"/>my the Plague. From the which God of his Great mercy protect us.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
